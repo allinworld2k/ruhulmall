@@ -1,8 +1,8 @@
 {
-  "active": true,
-  "locked": false,
-  "v2_active": true,
-  "v2_locked": false,
+  "active": false,
+  "locked": true,
+  "v2_active": false,
+  "v2_locked": true,
   "message": "এই অ্যাপসটি আপডেট হওয়ার কারণে এই অ্যাপসটি এখন সাময়িকভাবে বন্ধ আছে। যদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করেন।",
   "telegram": "https:\/\/t.me\/"
 }
