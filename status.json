@@ -1,5 +1,5 @@
 {
-  "locked": true,
-  "active": false,
-  "message": "⚠️ জরুরি নোটিশ:\n\nএই অ্যাপসটি আপডেট হওয়ার কারণে এখন সাময়িকভাবে বন্ধ আছে।\n\nযদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করুন।\n\n📩 Telegram: https://t.me/ruhuldev"
+  "locked": false,
+  "active": true,
+  "message": ""
 }
