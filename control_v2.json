@@ -6,6 +6,11 @@
   "blocked_users": [],
   "users": [
     {
+      "hwId": "9A27E7581A",
+      "name": "admin",
+      "blocked": false
+    },
+    {
       "hwId": "D507A2EB50",
       "name": "shipon Redmi note 15",
       "blocked": false
