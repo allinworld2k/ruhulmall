@@ -1,38 +1,18 @@
 {
   "active": true,
   "locked": false,
-  "message": "This app is temporarily suspended due to an update. Please contact the admin to reactivate.",
+  "message": "এই অ্যাপসটি আপডেট হওয়ার কারণে এই অ্যাপসটি এখন সাময়িকভাবে বন্ধ আছে। যদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করেন।",
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [],
   "users": [
     {
-      "hwId": "D9C1D90BC0",
-      "name": "@rakibuld",
+      "hwId": "144DE9ED2D",
+      "name": "@Rakib_xyzz",
       "blocked": false
     },
     {
-      "hwId": "D1AA666450",
-      "name": "@Prince_Online24",
-      "blocked": false
-    },
-    {
-      "hwId": "EB5A43C6E2",
-      "name": "test",
-      "blocked": false
-    },
-    {
-      "hwId": "4BC3EE1B43",
-      "name": "ruhul",
-      "blocked": false
-    },
-    {
-      "hwId": "D2A33DCE7D",
-      "name": "@sm_shipon_pro",
-      "blocked": false
-    },
-    {
-      "hwId": "BB639D875C",
-      "name": "Naim Chaudhury",
+      "hwId": "C1775B9797",
+      "name": "@forhad343478",
       "blocked": false
     },
     {
@@ -186,8 +166,33 @@
       "blocked": false
     },
     {
-      "hwId": "C1775B9797",
-      "name": "@forhad343478",
+      "hwId": "BB639D875C",
+      "name": "Naim Chaudhury",
+      "blocked": false
+    },
+    {
+      "hwId": "4BC3EE1B43",
+      "name": "ruhul",
+      "blocked": false
+    },
+    {
+      "hwId": "D9C1D90BC0",
+      "name": "@rakibuld",
+      "blocked": false
+    },
+    {
+      "hwId": "D1AA666450",
+      "name": "@Prince_Online24",
+      "blocked": false
+    },
+    {
+      "hwId": "EB5A43C6E2",
+      "name": "test",
+      "blocked": false
+    },
+    {
+      "hwId": "D2A33DCE7D",
+      "name": "@sm_shipon_pro",
       "blocked": false
     }
   ]
