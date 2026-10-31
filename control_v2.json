@@ -6,6 +6,11 @@
   "blocked_users": [],
   "users": [
     {
+      "hwId": "5A9A532CB9",
+      "name": "Asif vai 2",
+      "blocked": false
+    },
+    {
       "hwId": "535A079069",
       "name": "apple",
       "blocked": false
