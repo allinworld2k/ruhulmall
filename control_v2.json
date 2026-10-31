@@ -1,13 +1,28 @@
 {
   "active": true,
   "locked": false,
-  "message": "এই অ্যাপসটি আপডেট হওয়ার কারণে এই অ্যাপসটি এখন সাময়িকভাবে বন্ধ আছে। যদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করেন।",
+  "message": "This app is temporarily suspended due to an update. Please contact the admin to reactivate.",
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [],
   "users": [
     {
-      "hwId": "C1775B9797",
-      "name": "@forhad343478",
+      "hwId": "EB5A43C6E2",
+      "name": "test",
+      "blocked": false
+    },
+    {
+      "hwId": "4BC3EE1B43",
+      "name": "ruhul",
+      "blocked": false
+    },
+    {
+      "hwId": "D2A33DCE7D",
+      "name": "@sm_shipon_pro",
+      "blocked": false
+    },
+    {
+      "hwId": "BB639D875C",
+      "name": "Naim Chaudhury",
       "blocked": false
     },
     {
@@ -158,16 +173,6 @@
     {
       "hwId": "D507A2EB50",
       "name": "shipon Redmi note 15",
-      "blocked": false
-    },
-    {
-      "hwId": "BB639D875C",
-      "name": "Naim Chaudhury",
-      "blocked": false
-    },
-    {
-      "hwId": "4BC3EE1B43",
-      "name": "ruhul",
       "blocked": false
     }
   ]
