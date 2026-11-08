@@ -6,6 +6,11 @@
   "blocked_users": [],
   "users": [
     {
+      "hwId": "AA34B890D2",
+      "name": "@rubelvai198",
+      "blocked": false
+    },
+    {
       "hwId": "CE137661F3",
       "name": "@rajuvi07",
       "blocked": false
@@ -163,11 +168,6 @@
     {
       "hwId": "D8982A5AA7",
       "name": "riyad",
-      "blocked": false
-    },
-    {
-      "hwId": "AA34B890D2",
-      "name": "@rubelvai198",
       "blocked": false
     },
     {
