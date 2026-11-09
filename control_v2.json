@@ -6,6 +6,11 @@
   "blocked_users": [],
   "users": [
     {
+      "hwId": "9080C4A057",
+      "name": "@jibon8700",
+      "blocked": false
+    },
+    {
       "hwId": "AA34B890D2",
       "name": "@rubelvai198",
       "blocked": false
@@ -28,11 +33,6 @@
     {
       "hwId": "8046BE7CD0",
       "name": "naim",
-      "blocked": false
-    },
-    {
-      "hwId": "9080C4A057",
-      "name": "@jibon8700",
       "blocked": false
     },
     {
