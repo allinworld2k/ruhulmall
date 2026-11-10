@@ -1,18 +1,208 @@
 {
   "active": true,
   "locked": false,
-  "message": "এই অ্যাপসটি আপডেট হওয়ার কারণে এই অ্যাপসটি এখন সাময়িকভাবে বন্ধ আছে। যদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করেন।",
+  "message": "This app is temporarily suspended due to an update. Please contact the admin to reactivate.",
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [],
   "users": [
     {
-      "hwId": "1A1BB1A9EB",
-      "name": "weeeee",
+      "hwId": "5E63C3AC74",
+      "name": "@Pakkakkaka",
+      "blocked": false
+    },
+    {
+      "hwId": "C4BC0F0C76",
+      "name": "@TG_ARiYaN20",
+      "blocked": false
+    },
+    {
+      "hwId": "D9C1D90BC0",
+      "name": "@rakibuld",
+      "blocked": false
+    },
+    {
+      "hwId": "D1AA666450",
+      "name": "@Prince_Online24",
+      "blocked": false
+    },
+    {
+      "hwId": "EB5A43C6E2",
+      "name": "test",
+      "blocked": false
+    },
+    {
+      "hwId": "4BC3EE1B43",
+      "name": "ruhul",
+      "blocked": false
+    },
+    {
+      "hwId": "D2A33DCE7D",
+      "name": "@sm_shipon_pro",
+      "blocked": false
+    },
+    {
+      "hwId": "BB639D875C",
+      "name": "Naim Chaudhury",
+      "blocked": false
+    },
+    {
+      "hwId": "C49E5A7C94",
+      "name": "x hanter",
+      "blocked": false
+    },
+    {
+      "hwId": "D50A2640AA",
+      "name": "@Minhaj103",
+      "blocked": false
+    },
+    {
+      "hwId": "6D209948E6",
+      "name": "boss",
+      "blocked": false
+    },
+    {
+      "hwId": "87E11FAAD2",
+      "name": "@cstreder19",
+      "blocked": false
+    },
+    {
+      "hwId": "325C7B95C1",
+      "name": "@soheiltelikanii",
+      "blocked": false
+    },
+    {
+      "hwId": "700C82E435",
+      "name": "kup naim vai",
+      "blocked": false
+    },
+    {
+      "hwId": "7A5E915246",
+      "name": "arif",
+      "blocked": false
+    },
+    {
+      "hwId": "BB391DBDC8",
+      "name": "abron",
+      "blocked": false
+    },
+    {
+      "hwId": "2BF4343EF8",
+      "name": "@mdharunorrashid7",
+      "blocked": false
+    },
+    {
+      "hwId": "C10EE8C8C9",
+      "name": "riyad",
       "blocked": false
     },
     {
       "hwId": "0AC2B5EAC0",
       "name": "@OnlySaport1009",
+      "blocked": false
+    },
+    {
+      "hwId": "1F58813781",
+      "name": "im",
+      "blocked": false
+    },
+    {
+      "hwId": "72AC1DC4AE",
+      "name": "@emon708127",
+      "blocked": false
+    },
+    {
+      "hwId": "C608114995",
+      "name": "@sabbirdurlovpur",
+      "blocked": false
+    },
+    {
+      "hwId": "9F6DEB504F",
+      "name": "@Evan4203",
+      "blocked": false
+    },
+    {
+      "hwId": "53C32B308D",
+      "name": "@RCSKop",
+      "blocked": false
+    },
+    {
+      "hwId": "9A7BC9EAA3",
+      "name": "@X10K20K30K",
+      "blocked": false
+    },
+    {
+      "hwId": "5A9A532CB9",
+      "name": "Asif vai 2",
+      "blocked": false
+    },
+    {
+      "hwId": "535A079069",
+      "name": "apple",
+      "blocked": false
+    },
+    {
+      "hwId": "21F14AC190",
+      "name": "@Frozen_777_T",
+      "blocked": false
+    },
+    {
+      "hwId": "1FA20BE56E",
+      "name": "@TG_RAFU",
+      "blocked": false
+    },
+    {
+      "hwId": "0A383833A3",
+      "name": "@shohanurm",
+      "blocked": false
+    },
+    {
+      "hwId": "00978FAB32",
+      "name": "king khan",
+      "blocked": false
+    },
+    {
+      "hwId": "7AAD1B52C6",
+      "name": "rocky",
+      "blocked": false
+    },
+    {
+      "hwId": "D8982A5AA7",
+      "name": "riyad",
+      "blocked": false
+    },
+    {
+      "hwId": "AA34B890D2",
+      "name": "@rubelvai198",
+      "blocked": false
+    },
+    {
+      "hwId": "6AA8B15B33",
+      "name": "@Samin11",
+      "blocked": false
+    },
+    {
+      "hwId": "1C5E5E8F95",
+      "name": "Asif vai",
+      "blocked": false
+    },
+    {
+      "hwId": "9A27E7581A",
+      "name": "admin",
+      "blocked": false
+    },
+    {
+      "hwId": "D507A2EB50",
+      "name": "shipon Redmi note 15",
+      "blocked": false
+    },
+    {
+      "hwId": "C1775B9797",
+      "name": "@forhad343478",
+      "blocked": false
+    },
+    {
+      "hwId": "1A1BB1A9EB",
+      "name": "weeeee",
       "blocked": false
     },
     {
@@ -48,11 +238,6 @@
     {
       "hwId": "1ACD7A2A04",
       "name": "@Hamim9944",
-      "blocked": false
-    },
-    {
-      "hwId": "0A383833A3",
-      "name": "@shohanurm",
       "blocked": false
     },
     {
@@ -121,18 +306,8 @@
       "blocked": false
     },
     {
-      "hwId": "C10EE8C8C9",
-      "name": "@Kirito_X69",
-      "blocked": false
-    },
-    {
       "hwId": "125E7A8D25",
       "name": "@Hasibvai71",
-      "blocked": false
-    },
-    {
-      "hwId": "5A9A532CB9",
-      "name": "@mrmiabhai786",
       "blocked": false
     },
     {
@@ -141,28 +316,13 @@
       "blocked": false
     },
     {
-      "hwId": "D1AA666450",
-      "name": "@Prince_Online24",
-      "blocked": false
-    },
-    {
       "hwId": "8815858616",
       "name": "@Ironmanlordd",
       "blocked": false
     },
     {
-      "hwId": "D9C1D90BC0",
-      "name": "Asif vai4",
-      "blocked": false
-    },
-    {
       "hwId": "9080C4A057",
       "name": "@jibon8700",
-      "blocked": false
-    },
-    {
-      "hwId": "AA34B890D2",
-      "name": "@rubelvai198",
       "blocked": false
     },
     {
@@ -183,46 +343,6 @@
     {
       "hwId": "6E8B135E28",
       "name": "@HASANURRHAMAN1",
-      "blocked": false
-    },
-    {
-      "hwId": "C608114995",
-      "name": "@sabbirdurlovpur",
-      "blocked": false
-    },
-    {
-      "hwId": "1C5E5E8F95",
-      "name": "Asif vai",
-      "blocked": false
-    },
-    {
-      "hwId": "9A27E7581A",
-      "name": "admin",
-      "blocked": false
-    },
-    {
-      "hwId": "D507A2EB50",
-      "name": "shipon Redmi note 15",
-      "blocked": false
-    },
-    {
-      "hwId": "4BC3EE1B43",
-      "name": "ruhul",
-      "blocked": false
-    },
-    {
-      "hwId": "EB5A43C6E2",
-      "name": "test",
-      "blocked": false
-    },
-    {
-      "hwId": "D2A33DCE7D",
-      "name": "@sm_shipon_pro",
-      "blocked": false
-    },
-    {
-      "hwId": "1FA20BE56E",
-      "name": "@TG_RAFU",
       "blocked": false
     }
   ]
