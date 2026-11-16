@@ -7,6 +7,7 @@
     "6E8B135E28",
     "EB5A43C6E2",
     "1FA20BE56E",
+    "5E63C3AC74",
     "700C82E435",
     "7A5E915246",
     "BB391DBDC8",
@@ -260,7 +261,7 @@
     {
       "hwId": "5E63C3AC74",
       "name": "@Pakkakkaka",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "C4BC0F0C76",
