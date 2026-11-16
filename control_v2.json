@@ -9,6 +9,7 @@
     "1FA20BE56E",
     "5E63C3AC74",
     "C4BC0F0C76",
+    "D50A2640AA",
     "700C82E435",
     "7A5E915246",
     "BB391DBDC8",
@@ -282,7 +283,7 @@
     {
       "hwId": "D50A2640AA",
       "name": "@Minhaj103",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "6D209948E6",
