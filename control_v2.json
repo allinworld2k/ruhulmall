@@ -12,7 +12,6 @@
     "1FA20BE56E",
     "5E63C3AC74",
     "C4BC0F0C76",
-    "BB639D875C",
     "C49E5A7C94",
     "D50A2640AA",
     "6D209948E6",
@@ -281,7 +280,7 @@
     {
       "hwId": "BB639D875C",
       "name": "Naim Chaudhury",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "C49E5A7C94",
