@@ -8,6 +8,7 @@
     "EB5A43C6E2",
     "1FA20BE56E",
     "5E63C3AC74",
+    "C4BC0F0C76",
     "700C82E435",
     "7A5E915246",
     "BB391DBDC8",
@@ -266,7 +267,7 @@
     {
       "hwId": "C4BC0F0C76",
       "name": "@TG_ARiYaN20",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "BB639D875C",
