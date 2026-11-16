@@ -4,6 +4,7 @@
   "message": "এই অ্যাপসটি আপডেট হওয়ার কারণে এই অ্যাপসটি এখন সাময়িকভাবে বন্ধ আছে। যদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করেন।",
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [
+    "1F58813781",
     "72AC1DC4AE",
     "9F6DEB504F",
     "53C32B308D"
@@ -312,7 +313,7 @@
     {
       "hwId": "1F58813781",
       "name": "im",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "72AC1DC4AE",
