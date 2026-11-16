@@ -8,6 +8,7 @@
     "8046BE7CD0",
     "6E8B135E28",
     "9A27E7581A",
+    "D507A2EB50",
     "EB5A43C6E2",
     "1FA20BE56E",
     "5E63C3AC74",
@@ -245,7 +246,7 @@
     {
       "hwId": "D507A2EB50",
       "name": "shipon Redmi note 15",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "4BC3EE1B43",
