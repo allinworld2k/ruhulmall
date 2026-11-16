@@ -5,6 +5,7 @@
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [
     "6E8B135E28",
+    "9A27E7581A",
     "EB5A43C6E2",
     "1FA20BE56E",
     "5E63C3AC74",
@@ -237,7 +238,7 @@
     {
       "hwId": "9A27E7581A",
       "name": "admin",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "D507A2EB50",
