@@ -5,7 +5,6 @@
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [
     "6E8B135E28",
-    "D507A2EB50",
     "700C82E435",
     "7A5E915246",
     "BB391DBDC8",
@@ -234,7 +233,7 @@
     {
       "hwId": "D507A2EB50",
       "name": "shipon Redmi note 15",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "4BC3EE1B43",
