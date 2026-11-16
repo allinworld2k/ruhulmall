@@ -10,6 +10,7 @@
     "5E63C3AC74",
     "C4BC0F0C76",
     "D50A2640AA",
+    "6D209948E6",
     "700C82E435",
     "7A5E915246",
     "BB391DBDC8",
@@ -288,7 +289,7 @@
     {
       "hwId": "6D209948E6",
       "name": "boss",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "87E11FAAD2",
