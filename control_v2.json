@@ -4,16 +4,7 @@
   "message": "এই অ্যাপসটি আপডেট হওয়ার কারণে এই অ্যাপসটি এখন সাময়িকভাবে বন্ধ আছে। যদি পুনরায় চালু করতে চান তাহলে অ্যাডমিনের সাথে যোগাযোগ করেন।",
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [
-    "EB5A43C6E2",
-    "D2A33DCE7D",
-    "1FA20BE56E",
-    "5E63C3AC74",
-    "C4BC0F0C76",
-    "C49E5A7C94",
-    "D50A2640AA",
-    "6D209948E6",
-    "87E11FAAD2",
-    "325C7B95C1",
+    "6E8B135E28",
     "700C82E435",
     "7A5E915246",
     "BB391DBDC8",
@@ -222,7 +213,7 @@
     {
       "hwId": "6E8B135E28",
       "name": "@HASANURRHAMAN1",
-      "blocked": false
+      "blocked": true
     },
     {
       "hwId": "C608114995",
@@ -252,27 +243,27 @@
     {
       "hwId": "EB5A43C6E2",
       "name": "test",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "D2A33DCE7D",
       "name": "@sm_shipon_pro",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "1FA20BE56E",
       "name": "@TG_RAFU",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "5E63C3AC74",
       "name": "@Pakkakkaka",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "C4BC0F0C76",
       "name": "@TG_ARiYaN20",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "BB639D875C",
@@ -282,27 +273,27 @@
     {
       "hwId": "C49E5A7C94",
       "name": "x hanter",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "D50A2640AA",
       "name": "@Minhaj103",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "6D209948E6",
       "name": "boss",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "87E11FAAD2",
       "name": "@cstreder19",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "325C7B95C1",
       "name": "@soheiltelikanii",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "700C82E435",
