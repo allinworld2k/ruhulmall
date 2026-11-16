@@ -7,7 +7,6 @@
     "8815858616",
     "8046BE7CD0",
     "6E8B135E28",
-    "1C5E5E8F95",
     "9A27E7581A",
     "EB5A43C6E2",
     "1FA20BE56E",
@@ -236,7 +235,7 @@
     {
       "hwId": "1C5E5E8F95",
       "name": "Asif vai",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "9A27E7581A",
