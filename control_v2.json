@@ -5,7 +5,6 @@
   "telegram": "https:\/\/t.me\/ruhuldevbot",
   "blocked_users": [
     "8815858616",
-    "8046BE7CD0",
     "6E8B135E28",
     "EB5A43C6E2",
     "1FA20BE56E",
@@ -219,7 +218,7 @@
     {
       "hwId": "8046BE7CD0",
       "name": "naim",
-      "blocked": true
+      "blocked": false
     },
     {
       "hwId": "6E8B135E28",
